@@ -21,4 +21,3 @@ $cowsay = "
 
 echo "$cowsay";
 
-?>
